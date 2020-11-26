@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-[![Laurence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaurenceCheng&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenceCheng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=LaurenceCheng&show_icons=true" />
 </a>
