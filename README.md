@@ -3,6 +3,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=LaurenceCheng&show_icons=true&title_color=eeeeee&text_color=aaaaaa&bg_color=000000&icon_color=33cc33" />
 </a>
+
+&nbsp;
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenceCheng&layout=compact&card_width=445&title_color=eeeeee&text_color=aaaaaa&bg_color=000000&icon_color=33cc33" />
 </a>
