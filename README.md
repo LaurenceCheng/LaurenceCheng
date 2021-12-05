@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=LaurenceCheng&show_icons=true" />
+  <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=LaurenceCheng&show_icons=true&title_color=eeeeee&text_color=aaaaaa&bg_color=000000&icon_color=33cc33" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenceCheng&layout=compact" />
+  <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenceCheng&layout=compact&title_color=eeeeee&text_color=aaaaaa&bg_color=000000&icon_color=33cc33" />
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LaurenceCheng&theme=darkhub&title=PullRequest,Commits,Stars,Followers,Issues,Repositories&no-frame=true&margin-w=5&row=1)](https://github.com/ryo-ma/github-profile-trophy)
