@@ -7,7 +7,7 @@
   <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenceCheng&layout=compact" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LaurenceCheng&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LaurenceCheng&theme=darkhub&title=PullRequest,Commits,Stars,Followers,Issues,Repositories&no-frame=true&margin-w=5&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **LaurenceCheng/LaurenceCheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
