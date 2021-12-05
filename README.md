@@ -6,6 +6,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenceCheng&layout=compact" />
 </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LaurenceCheng&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **LaurenceCheng/LaurenceCheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
