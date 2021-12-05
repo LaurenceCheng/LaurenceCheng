@@ -7,6 +7,9 @@
   <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenceCheng&layout=compact&card_width=445&title_color=eeeeee&text_color=aaaaaa&bg_color=000000&icon_color=33cc33" />
 </a>
 
+  
+  
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=LaurenceCheng&theme=darkhub&title=PullRequest,Commits,Stars,Followers,Issues,Repositories&no-frame=true&margin-w=5&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
